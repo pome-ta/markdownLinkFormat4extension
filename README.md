@@ -1,0 +1,1 @@
+# markdownLinkFormat4extension
